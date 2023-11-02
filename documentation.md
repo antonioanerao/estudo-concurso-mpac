@@ -1,8 +1,8 @@
 - ## Edital 
-    - [Informações Edital](/docs/{{version}}/00-edital)
+    - [Informações Edital](/docs/{{version}}/00-intro)
 
 - ## Matemática
-    - [Conjuntos](/docs/{{version}}/01-conjuntosnumericos)
+    - [Conjuntos](/docs/{{version}}/01-conjuntos-numericos)
     - [Numéros naturais e inteiros](/docs/{{version}}/02-numeros-naturais-e-numeros-inteiros)
     - [Numéros racionais](/docs/{{version}}/03-numeros-racionais-reais)
     - [Numéros complexos](/docs/{{version}}/04-numeros-complexos)
